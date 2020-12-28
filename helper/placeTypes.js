@@ -8,7 +8,7 @@ module.exports = [
   'country',
   'dependency',
   'macroregion',
-  'region',
+  //'region',
   'macrocounty',
   'county',
   'localadmin',
